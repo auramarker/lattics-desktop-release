@@ -1,0 +1,1 @@
+# lattics-desktop-release
